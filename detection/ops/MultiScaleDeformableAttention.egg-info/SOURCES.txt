@@ -1,0 +1,13 @@
+README.md
+setup.py
+/public/home/zhangsongy/Swin-Transformer-Semantic-Segmentation-main/detection/ops/src/vision_hip.cpp
+/public/home/zhangsongy/Swin-Transformer-Semantic-Segmentation-main/detection/ops/src/cpu/ms_deform_attn_cpu_hip.cpp
+/public/home/zhangsongy/Swin-Transformer-Semantic-Segmentation-main/detection/ops/src/hip/ms_deform_attn_hip.hip
+MultiScaleDeformableAttention.egg-info/PKG-INFO
+MultiScaleDeformableAttention.egg-info/SOURCES.txt
+MultiScaleDeformableAttention.egg-info/dependency_links.txt
+MultiScaleDeformableAttention.egg-info/top_level.txt
+functions/__init__.py
+functions/ms_deform_attn_func.py
+modules/__init__.py
+modules/ms_deform_attn.py
