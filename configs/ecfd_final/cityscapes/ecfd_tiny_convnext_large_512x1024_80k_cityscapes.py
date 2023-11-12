@@ -34,7 +34,8 @@ model = dict(
         with_cp=False,
         add_context_information=False,
         num_classes=19,
-        SICM_mlp_ratio=0.5
+        SICM_mlp_ratio=0.5,
+        SICM_drop=0.1,
     ),
     auxiliary_head=dict(
         in_channels=768,
