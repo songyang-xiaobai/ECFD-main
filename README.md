@@ -21,7 +21,7 @@ This repository contains the official Pytorch implementation of training & evalu
 | Swin-Large | ECFD-tiny  | 512x1024  | 80K     | 82.67 | 83.41          | 209M     | 473G  | [config](configs/ecfd_final/cityscapes/ecfd_tiny_swin_large_512x1024_80k_cityscapes.py)      | [Log](logs/cityscapes/ecfd_tiny_swin_large_512x1024_80k_cityscapes/20230813_002424.log.json)         |       |
 | Swin-Large | ECFD-small | 512x1024  | 80K     | 83.10 | 83.61          | 218M     | 488G  | [config](configs/ecfd_final/cityscapes/ecfd_small_swin_large_512x1024_80k_cityscapes.py)     | [Log](logs/cityscapes/ecfd_small_swin_large_512x1024_80k_cityscapes/20230829_103558.log.json)        |       |
 | ConvNeXt   | ECFD-tiny  | 512x1024  | 80K     | 83.70 | 84.44          | 210M     | 453G  | [config](configs/ecfd_final/cityscapes/ecfd_tiny_convnext_large_512x1024_80k_cityscapes.py)  | [Log](logs/cityscapes/ecfd_tiny_convnext_large_512x1024_80k_cityscapes_ss/20230826_193959.log.json)  |       |
-| ConvNeXt   | ECFD-small | 512x1024  | 80K     | 83.55 | 84.42          | 219M     | 468G  | [config](configs/ecfd_final/cityscapes/ecfd_small_convnext_large_512x1024_80k_cityscapes.py) | [Log](logs/cityscapes/ecfd_small_convnext_large_512x1024_80k_cityscapes_ss/20230826_203843.log.json) |       |
+| ConvNeXt   | ECFD-small | 512x1024  | 80K     | 83.55 | 84.42          | 219M     | 468G  | [config](configs/ecfd_final/cityscapes/ecfd_small_convnext_large_512x1024_80k_cityscapes.py) | [Log](logs/cityscapes/ecfd_small_convnext_large_512x1024_80k_cityscapes_ss/20230826_203843.log.json) |[model](https://pan.baidu.com/s/1PV1UuAfMQ-HnZihWGQxXfg)       |
 
 ### Pascal Context:
 
