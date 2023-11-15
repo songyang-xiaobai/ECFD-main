@@ -1,8 +1,8 @@
 # Efficient Cross-Information Fusion Decoder for Semantic Segmentation
 
-This repo contains the supported code and configuration files to reproduce semantic segmentaion. It is based on [mmsegmentaion](https://github.com/open-mmlab/mmsegmentation/tree/v0.11.0).
+This repo contains the supported code and configuration files to reproduce semantic segmentaion. It is based on [mmsegmentaion](https://githubfast.com/open-mmlab/mmsegmentation/tree/v0.11.0).
 
-This repository contains the official Pytorch implementation of training & evaluation code and the pretrained models for ECFD
+This repository contains the official Pytorch implementation of training & evaluation code and the pretrained models for ECFD(Extraction code of model file: ecfd)
 
 ## Updates
 
@@ -80,7 +80,7 @@ pip install timm einops
 
 **Notes**:
 
--   **Pre-trained models can be downloaded from** [Swin Transformer for ImageNet Classification](https://github.com/microsoft/Swin-Transformer).
+-   **Pre-trained models can be downloaded from** [Swin Transformer for ImageNet Classification](https://githubfast.com/microsoft/Swin-Transformer).
 -   Access code for `baidu` is `swin`.
 
 ### Inference
