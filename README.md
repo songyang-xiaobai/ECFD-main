@@ -72,7 +72,7 @@ conda create -n ecfd python=3.7
 conda activate ecfd
 conda install pytorch==1.8.0 torchvision==0.9.0 -c pytorch
 ln -s ../detection/ops ./
-git clone git@github.com:WalBouss/SenFormer.git && cd ECFD-master
+gh repo clone songyang-xiaobai/ECFD-main && cd ECFD-main
 pip install mmcv-full==1.3.0
 pip install -e .
 pip install timm einops
